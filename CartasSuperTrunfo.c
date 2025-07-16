@@ -49,6 +49,9 @@ int main() {
     printf("CARTA 2 \n Estado:%c \n Codigo:%c%s \n Nome da Cidade:%s \n População:%d \n Area:%fKm² \n PIB:%f  \n Pontos turisticos:%d \n"
      ,estado2,estado2,codigo2,cidade2,populacao2,area2,pib2,turistico2);
 
+     //adicionar calculo do PIB e Densidade populacional;
+     //adicionar funcionalidades de comparação das cartas com if-else;
+     
 
     return 0;
 }
